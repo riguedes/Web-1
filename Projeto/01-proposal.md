@@ -30,12 +30,12 @@ Funcionalidades: integrar redes sociais, gerenciar perfis, buscar vagas de volun
 
 ### 3. Restrições
 
-  Neste trabalho não ocorrerá a implementação das funcionalidades: pesquisa de vaga de voluntariado por geolocalização, sistema completo de pagamento de doação para instituições de caráter filantrópico, gerenciamento completo do perfil do usuário do sistema.
+Neste trabalho não ocorrerá a implementação das funcionalidades: pesquisa de vaga de voluntariado por geolocalização, sistema completo de pagamento de doação para instituições de caráter filantrópico, gerenciamento completo do perfil do usuário do sistema.
 
 ### 4. Protótipo
 
-Sem estruturação de protótipo até o andamento do projeto.
+Sem estruturação de protótipo devido a utilizar padrões de design de acordo com a limitação dos meus conhecimentos de desenvolvimento e linguagens de programação.
 
 ### 5. Referências
 
-  Atualmente, não tenho referências para citar em relação a construção do sistema.
+A base referencial foi a produção do escopo desse software em outra disciplina da graduação.
