@@ -12,10 +12,23 @@ O My Volunteer é uma ferramenta versátil que pode ser personalizada para atend
 Funcionalidades: pesquisar vagas de voluntariado e instituições para doações, realizar pagamentos, cadastrar instituição filantrópica, cadastrar usuário, login e senha, candidatar á vaga de voluntário.
 
 ### 1. Funcionalidades implementadas
-  
+a) pesquisar vagas de voluntariado e instituições para doações.
+
+b) cadastrar isntituições filantrópicas.
+
+c) cadastrar usuários.
+
+d) candidatar a vaga de voluntário.
+
 ### 2. Funcionalidades previstas e não implementadas
+a) login e senha: devido as ferramentas utilizadas no projeto, a interface de login e senha apresentou muita complexidade para implementação.
+
+b) realização de pagamentos: devido a complexidade da funcionalidade, foi descartado no resultado final do projeto.
 
 ### 3. Outras funcionalidades implementadas
+a) Área administrativa: painel de controle dos administradores do software My Volunteer.
+
+b) Duas interfaces de apresentação do projeto: Home e Sobre Nós.
 
 ### 4. Principais desafios e dificuldades
 a) Front - end sem design contemporâneo e sem previsibilidade de protótipo de interface.
