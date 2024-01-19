@@ -36,5 +36,36 @@ Next.js: Instale o Next.js globalmente usando o seguinte comando no terminal: np
 
 JavaScript e Bootstrap: Certifique-se de ter conhecimento básico em JavaScript e Bootstrap para o desenvolvimento Front-End.
 
+### Passo 1: Configuração do Back-End
+1.1. Abra o Visual Studio Code.
+
+1.2. Navegue até a pasta do projeto Back-End.
+
+1.3. Abra a pasta Back-End no Visual Studio Code.
+
+1.4. Abra o terminal do Visual Studio Code (Ctrl + `).
+
+1.5. Digite o seguinte comando para iniciar o servidor do Back-End: npm start
+
+### Passo 2: Configuração do Front-End
+2.1. Abra outra instância do Visual Studio Code.
+
+2.2. Navegue até a pasta do projeto Front-End.
+
+2.3. Abra a pasta Front-End no Visual Studio Code.
+
+2.4. Abra o terminal do Visual Studio Code (Ctrl + `).
+
+2.5. Digite o seguinte comando para iniciar o servidor de desenvolvimento do Front-End: npm run dev
+
+### Passo 3: Acesso ao Sistema
+3.1. Após a execução bem-sucedida dos servidores, o Front-End deve fornecer um link de acesso.
+
+3.2. O link será exibido no terminal.
+
+3.3. Copie e cole o link em um navegador da web.
+
+3.4. O sistema estará acessível para interação.
+
 ### 6. Referências
 A base referencial foi a produção do escopo desse software em outra disciplina da graduação.
