@@ -25,6 +25,16 @@ b) Criar as funcionalidades por completo devido a complexidade de escopo do soft
 c) Limitação das funcionalidades devido a falta de competências e conhecimentos necessários para atender as espectativas do escopo do software.
 
 ### 5. Instruções para instalação e execução
+### Requisitos Necessários:
+Visual Studio Code: Certifique-se de ter o Visual Studio Code instalado em sua máquina.
+
+Node.js: Instale o Node.js, que inclui o npm (Node Package Manager).
+
+MongoDB: Garanta que o MongoDB esteja instalado em sua máquina.
+
+Next.js: Instale o Next.js globalmente usando o seguinte comando no terminal: npm install -g next
+
+JavaScript e Bootstrap: Certifique-se de ter conhecimento básico em JavaScript e Bootstrap para o desenvolvimento Front-End.
 
 ### 6. Referências
 A base referencial foi a produção do escopo desse software em outra disciplina da graduação.
