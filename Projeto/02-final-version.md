@@ -18,8 +18,13 @@ Funcionalidades: pesquisar vagas de voluntariado e instituições para doações
 ### 3. Outras funcionalidades implementadas
 
 ### 4. Principais desafios e dificuldades
+a) Front - end sem design contemporâneo e sem previsibilidade de protótipo de interface.
+
+b) Criar as funcionalidades por completo devido a complexidade de escopo do software.
+
+c) Limitação das funcionalidades devido a falta de competências e conhecimentos necessários para atender as espectativas do escopo do software.
 
 ### 5. Instruções para instalação e execução
 
 ### 6. Referências
-
+A base referencial foi a produção do escopo desse software em outra disciplina da graduação.
